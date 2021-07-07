@@ -22,8 +22,10 @@
 7. Pada Device Tree (Tab paling kiri), klik kiri pada project baru
 8. Kemudian pilih __Add Device__
 9. Pilih PLC > CPX-E-CEC-C1
-10. Tekan Add Device, tunggu beberapa saat
-11. Pada Device Tree (Tab paling kiri), klik kanan pada POU.  
+10. Double Click di Device Tree (CPX-E-CEC-C1) dan tekan "Add Gateway" lalu OK.  
+![image](https://user-images.githubusercontent.com/43722553/124691051-5fcc7f00-df05-11eb-90f9-3a50daa7530c.png)
+11. Tekan Add Device, tunggu beberapa saat
+12. Pada Device Tree (Tab paling kiri), klik kanan pada POU.  
 ![image](https://user-images.githubusercontent.com/43722553/124557578-df097680-de63-11eb-9c07-e6a302ce5585.png)
 12. Pada Device Tree (Tab paling kiri), klik kanan pada Task.  
 ![image](https://user-images.githubusercontent.com/43722553/124557777-11b36f00-de64-11eb-8993-fe7074ff62eb.png)
